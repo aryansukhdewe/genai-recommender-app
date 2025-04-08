@@ -1,0 +1,2 @@
+# genai-recommender-app
+SHL GENAI ASSESSMENT RECOMMENDATION SYSTEM
